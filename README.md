@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ristwak Pandey</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 <img align="right" height="150" src="https://media1.tenor.com/m/g68GcDz33nAAAAAd/toji-toji-fushiguro.gif"  />
-&nbsp;
-&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristwak&label=Profile%20views&color=0e75b6&style=flat" alt="ristwak" /> </p>
 
