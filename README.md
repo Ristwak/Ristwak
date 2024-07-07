@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ristwak Pandey</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
+<img align="right" height="150" src="https://media.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristwak&label=Profile%20views&color=0e75b6&style=flat" alt="ristwak" /> </p>
 
