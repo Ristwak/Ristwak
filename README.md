@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Unreal Engine**
 
-- 🌱 I’m currently learning **Blender, Unreal Engine**
+- 🌱 I’m currently at **Cybernaut Games**
 
 - ⚡ Fun fact **I love anime**
 
