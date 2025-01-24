@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/ristwak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ristwak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ristwak pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ristwak pandey" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/gamedev](https://youtube.com/@gamedev-kami?si=glfOdkwNli4cMIgk)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamedev" height="30" width="40" /></a>
+<a href="https://youtube.com/@gamedev-kami?si=glfOdkwNli4cMIgk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamedev" height="30" width="40" /></a>
 <a href="https://ristwak.vercel.app/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/000/350/766/original/portfolio-vector-icon.jpg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
