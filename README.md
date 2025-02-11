@@ -29,5 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ristwak&show_icons=true&locale=en" alt="ristwak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ristwak&theme=dark" alt="ristwak" /></p>
-![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-🔥%20Day%20Count-red?style=for-the-badge)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ristwak&" alt="ristwak" /></p>
