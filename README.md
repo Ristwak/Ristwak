@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Unreal Engine**
 
-- 🌱 Ex-Game Programmer Intern at **Homi Lab**
+- 🌱 Ex-Game Programmer at **Homi Lab**
 
 - ⚡ Fun fact **I love anime**
 
